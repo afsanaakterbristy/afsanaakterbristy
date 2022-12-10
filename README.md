@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/84661296/206389416-9b91054e-c601-4941-b1c2-5f2c69eca9e1.gif)
 
-<h1 align="center">Hi 👋, Afsana Akter Bristy</h1> 
+<h1 align="center">Hi 👋,I'm Afsana Akter Bristy</h1> 
 <h2 align="center">A Passionate Full Stack Web Developer </h2>
 
 I'm an enthusiastic and dedicated full-stack web developer. I have finished many types of complex and standard projects in MERN stack development. As an engineer, I always believe in code maintainability, upgrade-ability, and readability as crucial factors for each of my projects and maintain them. I'm not limited to a specific technology, I always keep learning and exploring technology to gather new experiences, and it's my pleasure. Also, I'm ready to take on any challenges with lots of patience.
