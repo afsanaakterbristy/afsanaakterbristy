@@ -25,6 +25,14 @@ I'm an enthusiastic and dedicated full-stack web developer. I have finished many
 <img src="/icons/figma.png"/>
 </p><br/>
 
+## :mailbox: Reach me out
+
+<br />
+
+[<p align="center"><img height="75" src="/icons/linkein.png">](https://www.linkedin.com)[<img height="75" src="/icons/facebook.png">](https://www.facebook.com)[<img height="75" src="/icons/twiter.png"> </p>](https://twitter.com)[<img height="75" src="/icons/inst.png"> </p>](https://www.instagram.com/)
+
+<br />
+
 
 <!--
 **afsanaakterbristy/afsanaakterbristy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
