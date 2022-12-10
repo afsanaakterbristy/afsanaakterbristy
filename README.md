@@ -29,7 +29,7 @@ I'm an enthusiastic and dedicated full-stack web developer. I have finished many
 
 <br />
 
-[<p align="center"><img height="75" src="/icons/linkein.png">](https://www.linkedin.com)[<img height="75" src="/icons/facebook.png">](https://www.facebook.com)[<img height="75" src="/icons/twiter.png"> </p>](https://twitter.com)[<img height="75" src="/icons/inst.png"> </p>](https://www.instagram.com/)
+[<p align="center"><img height="75" src="/icons/linkein.png">](https://www.linkedin.com)[<img height="75" src="/icons/facebook.png">](https://www.facebook.com)[<img height="75" src="/icons/twiter.png">](https://twitter.com)[<img height="75" src="/icons/inst.png"> </p>](https://www.instagram.com/)
 
 <br />
 
